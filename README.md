@@ -1,0 +1,2 @@
+# go_web_practice
+goを用いたwebアプリケーションの練習
